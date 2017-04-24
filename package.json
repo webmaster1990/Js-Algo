@@ -1,7 +1,7 @@
 {
-  "name": "javascript-algorithms",
+  "name": "Js-Algo",
   "version": "0.0.0",
-  "description": "Implementations of different computer science algorithms",
+  "description": "computer science algorithms",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -18,14 +18,4 @@
   "scripts": {
     "test": "gulp test"
   },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/mgechev/javascript-algorithms"
-  },
-  "author": "@mgechev",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/mgechev/javascript-algorithms/issues"
-  },
-  "homepage": "https://github.com/mgechev/javascript-algorithms"
 }
